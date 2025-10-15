@@ -30,10 +30,10 @@ const About = () => {
               applications and websites. I always strive to learn about the latest technologies and frameworks.
             </p>
             
-            <Button className="group">
+            {/* <Button className="group">
               <Download className="mr-2 h-4 w-4 group-hover:translate-y-1 transition-transform" />
               Resume
-            </Button>
+            </Button> */}
           </div>
           
           <div className="relative">
