@@ -50,7 +50,7 @@ const About = () => {
           </div>
         </div>
         
-        <Card className="mt-12 border-l-4 border-l-primary">
+        {/* <Card className="mt-12 border-l-4 border-l-primary">
           <CardContent className="p-6">
             <blockquote className="space-y-2">
               <p className="text-xl italic text-muted-foreground">
@@ -59,7 +59,7 @@ const About = () => {
               <footer className="text-right text-sm text-muted-foreground">- Mr. Who</footer>
             </blockquote>
           </CardContent>
-        </Card>
+        </Card> */}
       </div>
     </section>
   );
