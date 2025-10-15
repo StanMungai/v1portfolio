@@ -29,7 +29,8 @@ const Hero = () => {
             <div className="relative bg-card border border-border rounded-lg p-8 flex items-center justify-center">
               <div className="text-center space-y-4">
                 <div className="w-48 h-48 mx-auto bg-secondary rounded-full flex items-center justify-center">
-                  <span className="text-6xl">👨‍💻</span>
+                  {/* <span className="text-6xl">👨‍💻</span> */}
+                  <span className="text-6xl"><image src="https://i.postimg.cc/4dTnLq7p/Whats-App-Image-2025-10-15-at-10-33-45-PM.jpg" /></span>
                 </div>
                 <div className="bg-primary/10 border border-primary/20 rounded px-4 py-2 inline-block">
                   <p className="text-sm code-text">Currently working at Nanyuki Water & Sanitation</p>
